@@ -1,0 +1,101 @@
+ISBN,Title,FirstName,LastName,Genre,Price,Quanity,OnSale
+316769488,The Catcher and the Rye,J. D.,Salinger,fiction,14.01,2,1
+439136365,Harry Potter and the Prisoner of Askaban,J. K.,Rowling,fantasy,10.18,89,0
+385742894,The Kill Order,James,Dashner,young adult,12.00,19,0
+394800783,Horton Hears A Who!,Dr,Seuss,childrens,13.56,57,1
+394800011,The Cat in the Hat,Dr,Seuss,childrens,19.63,99,0
+062387240,Divergent,Veronica,Roth,young adult,6.82,31,1
+1442419803,Pretties,Scott,Westerfeld,young adult,13.09,9,0
+439708180,Harry Potter and the Sorcerer's Stone,J. K.,Rowling,fantasy,8.94,31,0
+394823379,The Lorax,Dr,Seuss,childrens,10.64,99,1
+142402511,Looking for Alaska,John,Green,young adult,14.78,32,0
+399226908,The Very Hungry Caterpillar ,Eric,Carle,childrens,24.00,17,0
+805053883,Polar Bear Polar Bear What Do You Hear?,Eric,Carle,childrens,20.00,13,0
+743273565,The Great Gatsby,F. Scott,Fitzgerald,fiction,11.62,50,1
+262632690,Unlicking the Clubhouse,Jane,Margolis,education,14.11,28,0
+394800899,The Sneetches,Dr,Seuss,childrens,23.25,56,0
+064471046,The Lion The Witch and Wardrobe,C. S.,Lewis,fantasy,6.21,97,0
+064471053,Prince Caspian,C. S.,Lewis,fantasy,9.85,42,0
+553582024,A Feast for Crows,George R. R.,Martin,fantasy,0.70,45,1
+062024053,Insurgent,Veronica,Roth,young adult,15.75,8,0
+394800387,Fox in Socks,Dr,Seuss,childrens,23.64,16,0
+394800165,Green Eggs and Ham,Dr,Seuss,childrens,14.97,22,1
+8129116123,Animal Farm,George,Orwell,fiction,13.52,31,0
+1594483851,A Thousand Splendid Suns,Khaled,Hosseini,fiction,17.09,22,1
+062024060,Allegiant,Veronica,Roth,young adult,11.74,8,0
+679781585,Memoirs of a Geisha,Arthur,Golden,fiction,11.88,18,1
+394800134,One Fish Two Fish Red Fish Blue Fish,Dr,Seuss,childrens,12.76,47,1
+439064873,Harry Potter and the Chamber of Secrets,J. K.,Rowling,fantasy,12.62,38,0
+201702975,Data Structures and Other Objects Using C++,Michael,Main,textbook,107.98,99,0
+674943049,Voices of the Mind,James,Wertsch,education,6.74,16,1
+399229190,The Very Busy Spider,Eric,Carle,childrens,18.00,10,1
+439358071,Harry Potter and the Order of the Pheonix,J. K.,Rowling,fantasy,2.60,22,1
+1594633669,The Girl on the Train,Paula,Hawkins,fiction,12.16,10,0
+674576292,Mind in Society,L. S.,Vygotsky,education,15.50,7,0
+394800790,How the Grinch Stole Christmas!,Dr,Seuss,childrens,18.06,17,0
+812976731,Kabul Beauty School,Deborah,Rodriguez,fiction,11.13,1,1
+385738767,The Scorch Trails,James,Dashner,young adult,12.43,7,0
+1594631931,The Kite Runner,Khaled,Hosseini,fiction,10.34,48,1
+446310789,To Kill a Mockingbird,Harper,Lee,fiction,17.33,2,0
+064471060,The Horse and His Boy,C. S.,Lewis,fantasy,1.41,70,1
+307588371,Gone Girl,Gillian,Flynn,fiction,13.92,17,1
+547928210,The Fellowship of the Ring,J. R. R.,Tolkin,fantasy,1.03,94,1
+802142849,Cold Mountain,Charles,Frazier,fiction,14.24,50,1
+133591743,Problem Solving with C++,Walter,Savitch,textbook,116.50,2,0
+142414934,Paper Towns,John,Green,young adult,12.01,2,0
+060572341,Where the Sidewalk Ends,Shel,Silverstein,childrens,5.01,51,1
+1442419810,Uglies,Scott,Westerfeld,young adult,11.11,9,0
+439785969,Harry Potter and the Half-Blood Prince,J. K.,Rowling,fantasy,6.70,98,0
+1476746586,All the Light We Cannot See,Anthony,Doerr,fiction,15.73,5,1
+1442419780,Extras,Scott,Westerfeld,young adult,6.31,25,1
+547928203,The Two Towers,J. R. R.,Tolkin,fantasy,4.95,68,1
+375842207,The Book Thief,Markus,Zusak,fiction,13.39,17,0
+545010221,Harry Potter and the Deathly Hallows,J. K.,Rowling,fantasy,3.60,63,1
+060248024,Falling Up,Shel,Silverstein,childrens,3.57,67,1
+060256654,The Giving Tree,Shel,Silverstein,childrens,3.13,56,1
+545663267,Mockingjay,Suzanne,Collins,young adult,12.98,28,0
+345391803,The Hitchhiker's Guide to the Galaxy,Douglas,Adams,fiction,10.89,31,0
+064471084,The Last Battle,C. S.,Lewis,fantasy,7.27,81,0
+553593716,A Game of Thrones,George R. R.,Martin,fantasy,10.23,21,0
+061905858,A Light in the Attic,Shel,Silverstein,childrens,5.89,43,1
+439139601,Harry Potter and the Goblet of Fire,J. K.,Rowling,fantasy,3.76,66,1
+1451673319,Fahrenheit 451,Ray,Bradbury,fiction,17.97,31,0
+1442419797,Specials,Scott,Westerfeld,young adult,10.58,24,1
+399501487,Lord of the Flies,William,Golding,fiction,12.51,9,1
+451524935,1984,George,Orwell,fiction,16.15,38,1
+312427290,The Red Tent,Anita,Diamant,fiction,15.47,18,1
+1501103711,The Dovekeepers,Alice,Hoffman,fiction,16.42,25,0
+142424179,The Fault In Our Stars,John,Green,young adult,16.96,6,0
+679805274,Oh The Places You'll Go,Dr,Seuss,childrens,14.86,34,1
+062345219,Four,Veronica,Roth,young adult,13.65,2,0
+062409850,Go Set a Watchman,Harper,Lee,fiction,16.54,32,0
+064405027,The Voyage of the Dawn Treader,C. S.,Lewis,fantasy,4.72,96,1
+060850524,A Brave New World,Aldous,Huxley,fiction,14.27,4,1
+399234279,The Very Lonely Firefly,Eric,Carle,childrens,26.00,12,0
+312243029,The Hours,Michael,Cunningham,fiction,16.94,24,1
+805047905,Brown Bear Brown Bear What Do You See?,Eric,Carle,childrens,23.00,10,0
+1451693577,The Museum of Extraordinary Things,Alice,Hoffman,fiction,13.45,41,1
+316159418,The Bookseller of Kabul,Asne,Seierstad,fiction,15.91,47,0
+553573428,A Storm of Swords,George R. R.,Martin,fantasy,6.76,79,0
+062315007,The Alchemist,Paulo,Coelho,fiction,17.86,32,0
+547928197,The Return of the King,J. R. R.,Tolkin,fantasy,6.66,84,0
+439023528,The Hunger Games,Suzanne,Collins,young adult,15.86,18,0
+694013203,The Grouchy Ladybug,Eric,Carle,childrens,26.00,6,0
+140177398,Of Mice and Men,John,Steinbeck,fiction,16.56,16,0
+399226847,The Very Quiet Cricket,Eric,Carle,childrens,18.00,6,1
+132923729,Data Abstraction & Problem Solving with C++,Frank M.,Carrano,textbook,119.38,4,0
+385738781,The Death Cure,James,Dashner,young adult,13.44,3,0
+545586177,Catching Fire,Suzanne,Collins,young adult,10.07,21,1
+142410707,An Abundance of Katherines,John,Green,young adult,14.90,34,0
+064405058,The Magician's Nephew,C. S.,Lewis,fantasy,1.75,97,1
+142418475,Will Grayson Will Grayson,John,Green,young adult,15.74,8,0
+394865805,The Butter Battle Book,Dr,Seuss,childrens,11.90,23,1
+156027328,Life of Pi,Yann,Martel,fiction,16.67,18,0
+156628709,Mrs. Dalloway,Virginia,Woolf,fiction,12.34,48,0
+385737951,The Maze Runner,James,Dashner,young adult,8.67,32,1
+060934347,Don Quixote,Miguel,De Cervantes,fiction,17.71,43,1
+553579901,A Clash of Kings,George R. R.,Martin,fantasy,8.75,55,0
+553582017,A Dance  with Dragons,George R. R.,Martin,fantasy,11.71,96,0
+064471091,The Silver Chair,C. S.,Lewis,fantasy,8.73,82,0
+1451626650,Catch-22,Joseph,Heller,fiction,17.45,29,1
+345514769,The Little Coffee Shop of Kabul,Deborah,Rodriguez,fiction,10.90,26,0

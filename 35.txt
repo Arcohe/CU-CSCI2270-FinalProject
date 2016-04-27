@@ -1,0 +1,36 @@
+ISBN,Title,FirstName,LastName,Genre,Price,Quanity,OnSale
+316769488,The Catcher and the Rye,J. D.,Salinger,fiction,14.01,2,1
+439136365,Harry Potter and the Prisoner of Askaban,J. K.,Rowling,fantasy,10.18,89,0
+385742894,The Kill Order,James,Dashner,young adult,12.00,19,0
+394800783,Horton Hears A Who!,Dr,Seuss,childrens,13.56,57,1
+394800011,The Cat in the Hat,Dr,Seuss,childrens,19.63,99,0
+062387240,Divergent,Veronica,Roth,young adult,6.82,31,1
+1442419803,Pretties,Scott,Westerfeld,young adult,13.09,9,0
+439708180,Harry Potter and the Sorcerer's Stone,J. K.,Rowling,fantasy,8.94,31,0
+394823379,The Lorax,Dr,Seuss,childrens,10.64,99,1
+142402511,Looking for Alaska,John,Green,young adult,14.78,32,0
+399226908,The Very Hungry Caterpillar ,Eric,Carle,childrens,24.00,17,0
+805053883,Polar Bear Polar Bear What Do You Hear?,Eric,Carle,childrens,20.00,13,0
+743273565,The Great Gatsby,F. Scott,Fitzgerald,fiction,11.62,50,1
+262632690,Unlicking the Clubhouse,Jane,Margolis,education,14.11,28,0
+394800899,The Sneetches,Dr,Seuss,childrens,23.25,56,0
+064471046,The Lion The Witch and Wardrobe,C. S.,Lewis,fantasy,6.21,97,0
+064471053,Prince Caspian,C. S.,Lewis,fantasy,9.85,42,0
+553582024,A Feast for Crows,George R. R.,Martin,fantasy,0.70,45,1
+062024053,Insurgent,Veronica,Roth,young adult,15.75,8,0
+394800387,Fox in Socks,Dr,Seuss,childrens,23.64,16,0
+394800165,Green Eggs and Ham,Dr,Seuss,childrens,14.97,22,1
+8129116123,Animal Farm,George,Orwell,fiction,13.52,31,0
+1594483851,A Thousand Splendid Suns,Khaled,Hosseini,fiction,17.09,22,1
+062024060,Allegiant,Veronica,Roth,young adult,11.74,8,0
+679781585,Memoirs of a Geisha,Arthur,Golden,fiction,11.88,18,1
+394800134,One Fish Two Fish Red Fish Blue Fish,Dr,Seuss,childrens,12.76,47,1
+439064873,Harry Potter and the Chamber of Secrets,J. K.,Rowling,fantasy,12.62,38,0
+201702975,Data Structures and Other Objects Using C++,Michael,Main,textbook,107.98,99,0
+674943049,Voices of the Mind,James,Wertsch,education,6.74,16,1
+399229190,The Very Busy Spider,Eric,Carle,childrens,18.00,10,1
+439358071,Harry Potter and the Order of the Pheonix,J. K.,Rowling,fantasy,2.60,22,1
+1594633669,The Girl on the Train,Paula,Hawkins,fiction,12.16,10,0
+674576292,Mind in Society,L. S.,Vygotsky,education,15.50,7,0
+394800790,How the Grinch Stole Christmas!,Dr,Seuss,childrens,18.06,17,0
+812976731,Kabul Beauty School,Deborah,Rodriguez,fiction,11.13,1,1

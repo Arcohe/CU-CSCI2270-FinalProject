@@ -1,0 +1,16 @@
+ISBN,Title,FirstName,LastName,Genre,Price,Quanity,OnSale
+316769488,The Catcher and the Rye,J. D.,Salinger,fiction,14.01,2,1
+439136365,Harry Potter and the Prisoner of Askaban,J. K.,Rowling,fantasy,10.18,89,0
+385742894,The Kill Order,James,Dashner,young adult,12.00,19,0
+394800783,Horton Hears A Who!,Dr,Seuss,childrens,13.56,57,1
+394800011,The Cat in the Hat,Dr,Seuss,childrens,19.63,99,0
+062387240,Divergent,Veronica,Roth,young adult,6.82,31,1
+1442419803,Pretties,Scott,Westerfeld,young adult,13.09,9,0
+439708180,Harry Potter and the Sorcerer's Stone,J. K.,Rowling,fantasy,8.94,31,0
+394823379,The Lorax,Dr,Seuss,childrens,10.64,99,1
+142402511,Looking for Alaska,John,Green,young adult,14.78,32,0
+399226908,The Very Hungry Caterpillar ,Eric,Carle,childrens,24.00,17,0
+805053883,Polar Bear Polar Bear What Do You Hear?,Eric,Carle,childrens,20.00,13,0
+743273565,The Great Gatsby,F. Scott,Fitzgerald,fiction,11.62,50,1
+262632690,Unlicking the Clubhouse,Jane,Margolis,education,14.11,28,0
+394800899,The Sneetches,Dr,Seuss,childrens,23.25,56,0

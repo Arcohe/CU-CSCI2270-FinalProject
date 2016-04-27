@@ -1,0 +1,6 @@
+ISBN,Title,FirstName,LastName,Genre,Price,Quanity,OnSale
+316769488,The Catcher and the Rye,J. D.,Salinger,fiction,14.01,2,1
+439136365,Harry Potter and the Prisoner of Askaban,J. K.,Rowling,fantasy,10.18,89,0
+385742894,The Kill Order,James,Dashner,young adult,12.00,19,0
+394800783,Horton Hears A Who!,Dr,Seuss,childrens,13.56,57,1
+394800011,The Cat in the Hat,Dr,Seuss,childrens,19.63,99,0
